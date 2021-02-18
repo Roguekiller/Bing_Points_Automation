@@ -15,3 +15,6 @@ Firefox, Python v3 or higher.
 ### Execution Complete:
 - User input is required once the task has completed to properly close out the progam. It also ensures that it ran properly.
 - Upon entering Y/y all used programs will close e.g Firefox, Python, Geckodriver.exe.
+
+### Imporant Update:
+This version of the program currently has an error due to how elements are gathered on the search bar. Further delving into the source code for the search page on bing is required, before this program is running again.
